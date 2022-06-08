@@ -1,0 +1,10 @@
+/* 
+  Localize.strings
+  SportViewer
+
+  Created by Vladislav Dudin on 06.05.2022.
+  
+*/
+
+"feedNavigationBarTitle" = "Sport Viewer";
+"feedFinishedEventTitle" = "Finished";

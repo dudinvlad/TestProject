@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C9FDFF07-8DBF-4B9D-B4E2-210E5DC8E185"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91DB5F31-F2ED-4193-A8FA-BD04122CA708"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SportViewer/Modules/Feed/Cell/SVEventCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "countDownTimerRepeatingTask"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "91DB5F31-F2ED-4193-A8FA-BD04122CA708 - 26eddbde96242fd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in SportViewer.SVEventCollectionViewCell.countDownTimerRepeatingTask.getter : Swift.Optional&lt;() -&gt; ()&gt;"
+                  moduleName = "SportViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kalmar/Documents/SportViewer/SportViewer/Modules/Feed/Cell/SVEventCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "169">
+               </Location>
+               <Location
+                  uuid = "91DB5F31-F2ED-4193-A8FA-BD04122CA708 - 26eddbde96242fd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in SportViewer.SVEventCollectionViewCell.countDownTimerRepeatingTask.getter : Swift.Optional&lt;() -&gt; ()&gt;"
+                  moduleName = "SportViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kalmar/Documents/SportViewer/SportViewer/Modules/Feed/Cell/SVEventCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "823A0178-6F4D-4F76-A770-5301B9C13A48"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SportViewer/Modules/Feed/Cell/SVSportTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "configurate(with:isExpanded:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FBA7A5B2-A964-493E-B622-4F903776552F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SportViewer/Common/CountDownTimer/SVCountdownTimer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "timeElapsed"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE3523A4-2EBF-4A33-BD19-EED8120F6D7F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SportViewer/Modules/Feed/Cell/SVEventCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "tapGestureAction()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
